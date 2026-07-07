@@ -108,7 +108,7 @@ The project experiments with multiple machine learning algorithms:
 
 The best-performing model is saved and used for prediction.
 
-## 📸 Application Preview
+
 
 ## 📸 Application Preview
 
