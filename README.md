@@ -110,7 +110,30 @@ The best-performing model is saved and used for prediction.
 
 ## 📸 Application Preview
 
-(Add screenshots of the Streamlit application here)
+## 📸 Application Preview
+
+<p align="center">
+  <img src="screenshots/UI_view.png" width="700">
+</p>
+
+<p align="center">
+  <img src="screenshots/Dataset_Head_items.png" width="45%">
+  <img src="screenshots/Dataset_model.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/Number_Of_Samples.png" width="45%">
+  <img src="screenshots/Common_Words.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/Average_word_count.png" width="45%">
+  <img src="screenshots/Number_of_Words.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/working_demo.gif" width="700">
+</p>
 
 ## 👩‍💻 Author
 
